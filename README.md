@@ -15,10 +15,10 @@ Whether it’s a mental health chatbot that listens better than most apps, a sma
 ---
 
 ### 📂 Projects worth checking out:
+- 🕹️ **Game Code Iterator** – A developer-first tool to locally iterate and auto-improve game code using AI. It plugs into your dev flow, reviews code contextually, and quietly suggests what you might've missed.
 - 🧠 **Mental Health Chatbot** – NLP-based assistant for early mental health support.
 - 🦯 **Ishare Smart Cane** – Real-time object detection using YOLO + Raspberry Pi.
 - 🔐 **Pattern Lock Cryptography** – Matrix-based encryption using intuitive visual locks.
-- 🕹️ **Game Code Iterator** – A developer-first tool to locally iterate and auto-improve game code using AI. It plugs into your dev flow, reviews code contextually, and quietly suggests what you might've missed.
 - 🌦️ **Drizzle Dog** – Weather app with Firebase & clean Android UI.
 
 > Full list & repos below. Most are real, battle-tested, and documented.
