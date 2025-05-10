@@ -35,7 +35,6 @@ Whether it’s a mental health chatbot that listens better than most apps, a sma
 ### 📫 Contact:
 - 📧 nachiketa3003@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/nachiketa-singamsetty)  
-- 🧠 [LeetCode](https://leetcode.com/u/Nachiketa3003/)
 
 ---
 
