@@ -1,60 +1,78 @@
-# <div align="center">👋 Hey there! I'm Nachiketa Singamsetty</div>
-
+# <div align="center">👋 Hi, I'm Nachiketa Singamsetty</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Half+student%2C+half+confused+coder;Building+AI%2FML+one+bug+at+a+time;Learning+the+hard+way+(but+loving+it)" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=Part+student,+part+confused+coder;Building+AI%2FML+one+bug+at+a+time;Learning+through+trial+and+error" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎯 **What Drives Me**
+## What Gets Me Up in the Morning
 
-I'm a Computer Science undergrad who got curious about how machines "think" — and I've been **building, breaking, and learning** ever since. Most of what I know comes from late-night experiments, endless debugging, and figuring things out one project at a time.
+```python
+class NachiketaSingamsetty:
+    def __init__(self):
+        self.name = "Nachiketa Singamsetty"
+        self.role = "CS Undergrad & AI/ML Explorer"
+        self.location = "India"
+        self.learning_philosophy = "Building, breaking, and learning"
+        
+    def current_focus(self):
+        return [
+            "Deep Learning & NLP",
+            "GenAI & LLMs", 
+            "Building meaningful applications",
+            "Learning the hard way (but loving it)"
+        ]
+    
+    def fun_fact(self):
+        return "I debug more than I code, but that's where the magic happens! ✨"
+```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+> *"I'm driven by building things that are useful, thoughtful, and a little surprising."*
 
 ---
 
-## 🛠️ **My Arsenal**
+## My Arsenal
 
 <div align="center">
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Libraries & Frameworks  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
-### **AI/ML & Tools**
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge&logo=openai&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-FFB703?style=for-the-badge&logoColor=black)
+
+### Tools I Use Daily  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Backend / DB  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c755f.gif" width="100">
-</div>
-
 ---
 
-## 🚀 **Projects That Actually Work** *(battle-tested & documented)*
+## Projects That Actually Work *(battle-tested & documented)*
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🕹️ **Game Code Iterator**
+### **Game Code Iterator**
 *AI-powered code refinement for game developers*
 - **Flask + LLaMA3 + Ollama**
 - 100% local inference (privacy first!)
@@ -66,7 +84,7 @@ I'm a Computer Science undergrad who got curious about how machines "think" — 
 </td>
 <td width="50%">
 
-### 🧠 **Mental Health Chatbot**
+### **Mental Health Chatbot**
 *Context-aware mental health support*
 - **NLP + LSTM + Custom Dataset**
 - 97% response accuracy
@@ -80,7 +98,7 @@ I'm a Computer Science undergrad who got curious about how machines "think" — 
 <tr>
 <td width="50%">
 
-### 🦯 **Ishare Smart Cane**
+### **Ishare Smart Cane**
 *YOLOv9-powered assistance for visually impaired*
 - **YOLO + Raspberry Pi + Computer Vision**
 - Real-time object detection
@@ -92,7 +110,7 @@ I'm a Computer Science undergrad who got curious about how machines "think" — 
 </td>
 <td width="50%">
 
-### 🔐 **Pattern Lock Cryptography**
+### **Pattern Lock Cryptography**
 *Matrix-based encryption made intuitive*
 - **C++ + Advanced Cryptography**
 - 10 distinct encryption patterns
@@ -105,41 +123,37 @@ I'm a Computer Science undergrad who got curious about how machines "think" — 
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
-</div>
-
-### 🔬 **More Experiments**
-- 🫁 **[Lung Segmentation with U-Net](https://github.com/Nachiketa-Singamsetty/Lung-Segmentation-with-U-Net)** - Medical imaging meets deep learning
-- 📊 **[Customer Analysis & Segmentation](https://github.com/Nachiketa-Singamsetty/Customer-Analysis-and-Segmentation)** - K-Means clustering for business insights
-- 🌦️ **[Drizzle Dog](https://github.com/Nachiketa-Singamsetty/Drizzle-Dog)** - Clean Android weather app with Firebase
+### More Experiments
+- **[Lung Segmentation with U-Net](https://github.com/Nachiketa-Singamsetty/Lung-Segmentation-with-U-Net)** - Medical imaging meets deep learning
+- **[Customer Analysis & Segmentation](https://github.com/Nachiketa-Singamsetty/Customer-Analysis-and-Segmentation)** - K-Means clustering for business insights
+- **[Drizzle Dog](https://github.com/Nachiketa-Singamsetty/Drizzle-Dog)** - Clean Android weather app with Firebase
 
 ---
 
-## 🤝 **Let's Build Something Cool Together**
-
-<div align="center">
-
-I'm looking to collaborate with teams who:
-- 🎯 Care about **impact AND implementation**
-- 🧹 Appreciate **clean code** and constructive feedback
-- 😄 Are okay with the occasional **bad pun in comments**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-## 📬 **Connect With Me**
+## Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-nachiketa3003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nachiketa3003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nachiketa-singamsetty)
 
-### 📄 Want the full story? 
-**[📋 Grab my resume here!](https://drive.google.com/file/d/1FtTRmefGrF-g31Vza-dnO1V7f_OZnYfq/view?usp=sharing)** *(Warning: Contains actual achievements)*
+</div>
+
+<div align="center">
+  
+### Need the formal details?
+
+<table>
+<tr>
+<td align="center" width="100%">
+<a href="https://drive.google.com/file/d/1FtTRmefGrF-g31Vza-dnO1V7f_OZnYfq/view?usp=sharing">
+<img src="https://img.shields.io/badge/📋_RESUME-Download_PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
+<br>
+<sub><i>All the boring but important stuff</i></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -148,14 +162,6 @@ I'm looking to collaborate with teams who:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
   
-  **If you're here from my résumé — thanks for checking out my work!**  
-  **If not — nice to meet you anyway!** 👋
+  **Thanks for stopping by! Hope you find something interesting here.**
   
-  <img src="https://komarev.com/ghpvc/?username=Nachiketa-Singamsetty&color=blueviolet&style=for-the-badge">
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 </div>
