@@ -72,60 +72,75 @@ class NachiketaSingamsetty:
 
 ## Projects That Actually Work *(battle-tested & documented)*
 
-<table align="center">
-<tr>
-<td width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🕹️ Game Code Iterator</h3>
+        <div align="center">  
+          <a href="https://github.com/Nachiketa-Singamsetty/game-code-iterator" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=game-code-iterator&theme=tokyonight" alt="Game Code Iterator" />
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/LLaMA3-FF6B6B?style=flat-square&logo=meta&logoColor=white" />
+            <img src="https://img.shields.io/badge/Ollama-4ECDC4?style=flat-square" />
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          </p>
+          <p><strong>AI-Powered Game Development Tool</strong><br>Local LLM integration for real-time code refinement with 90% accuracy in suggestions. Complete privacy with offline inference.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧠 Mental Health Chatbot</h3>
+        <div align="center">  
+          <a href="https://github.com/Nachiketa-Singamsetty/Mental-Health-Chatbot" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=Mental-Health-Chatbot&theme=tokyonight" alt="Mental Health Chatbot" />
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/NLP-FF9F43?style=flat-square" />
+            <img src="https://img.shields.io/badge/LSTM-10AC84?style=flat-square" />
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          </p>
+          <p><strong>Context-Aware Mental Health Support</strong><br>97% response accuracy with rule-based, retrieval-based, and generative models. Real impact for mental wellness.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🦯 Ishare Smart Cane</h3>
+        <div align="center">  
+          <a href="https://github.com/Nachiketa-Singamsetty/Ishare-Object-Detection-and-Sensors" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=Ishare-Object-Detection-and-Sensors&theme=tokyonight" alt="Ishare Smart Cane" />
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/YOLOv9-00D4AA?style=flat-square" />
+            <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
+            <img src="https://img.shields.io/badge/Computer%20Vision-5D4E75?style=flat-square" />
+          </p>
+          <p><strong>AI-Powered Assistive Technology</strong><br>Real-time object detection with voice commands. 15cm precision proximity detection for enhanced spatial awareness.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔐 Pattern Lock Cryptography</h3>
+        <div align="center">  
+          <a href="https://github.com/Nachiketa-Singamsetty/Pattern-Lock-Cryptography" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=Pattern-Lock-Cryptography&theme=tokyonight" alt="Pattern Lock Cryptography" />
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+            <img src="https://img.shields.io/badge/Cryptography-2C3E50?style=flat-square" />
+            <img src="https://img.shields.io/badge/Matrix%20Operations-E74C3C?style=flat-square" />
+          </p>
+          <p><strong>Visual Cryptography Innovation</strong><br>10 distinct encryption patterns using matrix operations. Published in Bennett University library.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Game Code Iterator**
-*AI-powered code refinement for game developers*
-- **Flask + LLaMA3 + Ollama**
-- 100% local inference (privacy first!)
-- ~90% accuracy in code suggestions
-- Real-time prompt-driven improvements
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Nachiketa-Singamsetty/game-code-iterator)
-
-</td>
-<td width="50%">
-
-### **Mental Health Chatbot**
-*Context-aware mental health support*
-- **NLP + LSTM + Custom Dataset**
-- 97% response accuracy
-- Rule-based + Generative models
-- Real impact, thoughtful implementation
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Nachiketa-Singamsetty/Mental-Health-Chatbot)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### **Ishare Smart Cane**
-*YOLOv9-powered assistance for visually impaired*
-- **YOLO + Raspberry Pi + Computer Vision**
-- Real-time object detection
-- 15cm precision with IR sensors
-- Making tech accessible
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Nachiketa-Singamsetty/Ishare-Object-Detection-and-Sensors)
-
-</td>
-<td width="50%">
-
-### **Pattern Lock Cryptography**
-*Matrix-based encryption made intuitive*
-- **C++ + Advanced Cryptography**
-- 10 distinct encryption patterns
-- Published in Bennett University library
-- Security meets usability
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Nachiketa-Singamsetty/Pattern-Lock-Cryptography)
-
-</td>
-</tr>
-</table>
 
 ### More Experiments
 - **[Lung Segmentation with U-Net](https://github.com/Nachiketa-Singamsetty/Lung-Segmentation-with-U-Net)** - Medical imaging meets deep learning
