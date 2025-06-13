@@ -1,222 +1,112 @@
-# <div align="center">👋 Hi, I'm Nachiketa Singamsetty</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad;AI%2FML+Enthusiast;Half+Student%2C+Half+Confused+Coder;Building+Things+That+Matter" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nachiketa-Singamsetty&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nachiketa-Singamsetty?color=blue&style=for-the-badge" alt="Followers" />
-</div>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nachiketa+Singamsetty!;AI%2FML+Explorer+%7C+Builder+of+Weird+Things;Fresher+but+Fiercely+Curious" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+### 🧠 Who Am I?
+I'm a Computer Science undergrad who got curious about how machines "think" — and I’ve been building, breaking, and learning ever since.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Most of what I know in AI/ML comes from late-night debugging sessions and figuring stuff out the messy way. I've made things like:
+- A mental health chatbot that actually *listens*
+- A smart cane that sees with YOLO
+- A cryptography system disguised as a pattern lock
 
-```python
-class NachiketaSingamsetty:
-    def __init__(self):
-        self.name = "Nachiketa Singamsetty"
-        self.role = "CS Undergrad & AI/ML Explorer"
-        self.location = "India"
-        self.learning_philosophy = "Building, breaking, and learning"
-        
-    def current_focus(self):
-        return [
-            "Deep Learning & NLP",
-            "GenAI & LLMs", 
-            "Building meaningful applications",
-            "Learning the hard way (but loving it)"
-        ]
-    
-    def fun_fact(self):
-        return "I debug more than I code, but that's where the magic happens! ✨"
-```
-
-> *"I'm driven by building things that are useful, thoughtful, and a little surprising."*
+> ⚒️ Building things that are useful, thoughtful, and a little surprising.
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Tools & Technologies
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+### ⚡ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,keras,numpy,raspberrypi,firebase,mysql,flask,html,css,js&perline=8" />
+</p>
 
 ---
 
-## 🎯 Featured Projects
+### 📂 Projects I'm Proud Of
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🕹️ Game Code Iterator</h3>
-        <div align="center">  
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=game-code-iterator&theme=tokyonight" alt="Game Code Iterator" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/LLaMA3-FF6B6B?style=flat-square&logo=meta&logoColor=white" />
-            <img src="https://img.shields.io/badge/Ollama-4ECDC4?style=flat-square" />
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-          </p>
-          <p><strong>AI-Powered Game Development Tool</strong><br>Local LLM integration for real-time code refinement with 90% accuracy in suggestions. Complete privacy with offline inference.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧠 Mental Health Chatbot</h3>
-        <div align="center">  
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=mental-health-chatbot&theme=tokyonight" alt="Mental Health Chatbot" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/NLP-FF9F43?style=flat-square" />
-            <img src="https://img.shields.io/badge/LSTM-10AC84?style=flat-square" />
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          </p>
-          <p><strong>Context-Aware Mental Health Support</strong><br>97% response accuracy with rule-based, retrieval-based, and generative models. Real impact for mental wellness.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🦯 Ishare Smart Cane</h3>
-        <div align="center">  
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=ishare-smart-cane&theme=tokyonight" alt="Ishare Smart Cane" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/YOLOv9-00D4AA?style=flat-square" />
-            <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
-            <img src="https://img.shields.io/badge/Computer%20Vision-5D4E75?style=flat-square" />
-          </p>
-          <p><strong>AI-Powered Assistive Technology</strong><br>Real-time object detection with voice commands. 15cm precision proximity detection for enhanced spatial awareness.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔐 Pattern Lock Cryptography</h3>
-        <div align="center">  
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nachiketa-Singamsetty&repo=pattern-lock-crypto&theme=tokyonight" alt="Pattern Lock Cryptography" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-            <img src="https://img.shields.io/badge/Cryptography-2C3E50?style=flat-square" />
-            <img src="https://img.shields.io/badge/Matrix%20Operations-E74C3C?style=flat-square" />
-          </p>
-          <p><strong>Visual Cryptography Innovation</strong><br>10 distinct encryption patterns using matrix operations. Published in Bennett University library.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<details>
+  <summary>🕹️ Game Code Iterator</summary>
+
+- **Stack**: Flask, LLaMA 3, Ollama, JS  
+- **What it does**: A local AI-powered tool for devs to auto-improve Python game code  
+- **Cool part**: Runs 100% locally, makes smart suggestions (like adding physics or jump logic!)  
+</details>
+
+<details>
+  <summary>🧠 Mental Health Chatbot</summary>
+
+- **Stack**: NLP, LSTM, Retrieval + Generative  
+- **Purpose**: Conversational support system using context-aware response generation  
+- **Result**: 97% response accuracy and way more empathetic than most bots  
+</details>
+
+<details>
+  <summary>🦯 Ishare Smart Cane</summary>
+
+- **Stack**: YOLOv9, Raspberry Pi, IR Sensors  
+- **Goal**: Aid visually impaired users with real-time object detection  
+- **Edge**: 15cm precision + voice alerts  
+</details>
+
+<details>
+  <summary>🔐 Pattern Lock Cryptography</summary>
+
+- **Stack**: C++, Matrix Ops  
+- **Idea**: Visual pattern-based encryption  
+- **Extra**: Featured as a published chapter in my university library!  
+</details>
+
+<details>
+  <summary>🌦️ Drizzle Dog</summary>
+
+- **Stack**: Java, Firebase, Weather APIs  
+- **Goal**: Real-time weather with clean Android UI  
+- **Bonus**: Named it after my dog 😄  
+</details>
+
+> 🚀 [Check out my GitHub Repos below ↓](https://github.com/Nachiketa-Singamsetty?tab=repositories)
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nachiketa-Singamsetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiketa-Singamsetty&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiketa-Singamsetty&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiketa-Singamsetty&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+### 🤝 Looking to Collaborate With:
+- Teams who care about both impact *and* implementation  
+- People who value clean code, helpful feedback, and fun side-projects  
+- Anyone trying to build something slightly weird but useful  
 
 ---
 
-## 🎨 Current Learning Journey
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎓 CS Foundations] --> B[🤖 AI/ML Exploration]
-    B --> C[🧠 Deep Learning & NLP]
-    C --> D[🚀 GenAI & LLMs]
-    D --> E[🔮 Future: AGI Research?]
-    
-    B --> F[💡 Real-World Projects]
-    F --> G[🌟 Meaningful Impact]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-    style F fill:#ff9ff3
-    style G fill:#54a0ff
-```
-
-</div>
+### 📫 Let's Connect!
+- ✉️ **nachiketa3003@gmail.com**  
+- 🔗 [LinkedIn](https://linkedin.com/in/nachiketa-singamsetty)  
+- 📎 [Resume (Linked in Featured)](https://www.linkedin.com/in/nachiketa-singamsetty/details/featured/)  
+- 💻 [Portfolio Projects](https://github.com/Nachiketa-Singamsetty?tab=repositories)
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### Looking to work with teams who:
-- 🎯 Care about **impact** *and* **implementation**
-- 🧹 Appreciate **clean code** and **constructive feedback**
-- 😄 Are okay with the occasional **bad pun** in comments
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nachiketa-singamsetty)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nachiketa3003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachiketa-Singamsetty)
-
-</div>
+### 🧪 Random Facts
+> 🎮 Favorite bug fix: The one that "magically" works after 3 hours  
+> 🧠 Currently vibing with: Vector DBs, CLIP, and Whisper  
+> ✨ Life motto: Break. Build. Repeat.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
-</div>
+### 📊 GitHub Stats
 
-<div align="center">
-  <i>If you're here from my résumé, thanks for checking out my work.<br>
-  If not — nice to meet you anyway! 👋</i>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nachiketa-Singamsetty&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nachiketa-Singamsetty&theme=radical" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nachiketa-Singamsetty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/last-commit/Nachiketa-Singamsetty/Nachiketa-Singamsetty?style=flat&color=0e75b6" alt="Last Commit" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nachiketa-Singamsetty&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+> If you're here from my résumé, thanks for stopping by!  
+> If not — hi anyway 👋  
+> Feel free to reach out. Always up to learn and build with folks who care.
